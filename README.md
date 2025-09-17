@@ -1,16 +1,16 @@
-# 🎶 Music Player using Python           <!-- Largest heading -->
+# 🎶 Music Player using Python           
 
 Music Player is a Python-based GUI and Console application with database integration for managing and playing songs. Built using Tkinter, Pygame, and MySQL, it provides an easy-to-use interface for browsing, playing, shuffling, liking, and managing your favorite songs and playlists. The player supports both GUI and console modes for maximum flexibility.
 
-## 🚀 Features                        <!-- Second largest heading -->
+## 🚀 Features                        
 
-### 🎨 GUI Mode                      <!-- Third largest heading -->
+### 🎨 GUI Mode                      
 - Play, pause, and stop songs
 - Shuffle and loop playlist
 - Like or unlike songs and save preferences in the database
 - Manage playlists with an intuitive interface
 
-### 💻 Console Mode                  <!-- Third largest heading -->
+### 💻 Console Mode                  
 - View available songs
 - Play, pause, and stop songs
 - Shuffle playlist
